@@ -7,7 +7,7 @@ YOU CAN SIMPLY DEPLOY ON HEROKU BY CLICKING THE BUTTON BELOW
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Benchamxd/Bin-Checker/tree/main)
 
-AFTER DEPLOY DO SET WEBHOOK BY ``api.telegram.org/bot<your bot token>/setwebhook?url=<Heroku site link>/bot.php``
+AFTER DEPLOY DO SET WEBHOOK BY ``api.telegram.org/bot<6511397492:AAHIS-hyMJX7mN2sPzjL8rOX9VYDkD26kZk>/setwebhook?url=<Heroku site link>/bot.php``
 
 # Configarations
 
